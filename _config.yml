@@ -1,0 +1,9 @@
+title: Hackathon Demo
+email: g.kaufmann@htl-neufelden.at
+description: > # this means to ignore newlines until "baseurl:"
+  Sharpen your coding skills in this hackathon.
+baseurl: ""
+url: "https://kfm9.github.io/GitHubEduWorkshop-Jekyll"
+twitter_username: kfm9
+github_username:  kfm9
+baseurl: /GitHubEduWorkshop-Jekyll
